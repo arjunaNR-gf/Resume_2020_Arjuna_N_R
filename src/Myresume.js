@@ -168,11 +168,11 @@ useEffect(()=>
         </div>
     </div>
    
-    <div className="my-clg-ex"><p className="p1" style={{width:"22%",backgroundColor:"navy",padding:"0.1%",marginTop:"1%"}}>EDUCATION</p>
+    <div className="my-clg-ex"><p className="p1" style={{width:"24%",backgroundColor:"navy",padding:"0.1%",marginTop:"1%"}}>EDUCATION</p>
     <table border="1" className={table?"table-mobile":"table-laptop"}>
         <tr style={{width:"10%",height:"auto",padding:"2px",backgroundColor:"lavender"}}>
             <th>Education</th>
-            <th>Name Of School/Collage</th>
+            <th>Institute Name</th>
             <th>Year</th>
             <th>Pecentage</th>
         </tr>
@@ -185,7 +185,8 @@ useEffect(()=>
         </tr>
         <tr>
             <td>PUC</td>
-            <td>Gov.Junior.College,Thirthahalli</td>
+            <td>Gov.Junior.College,
+                Thirthahalli</td>
             <td>2014</td>
             <td>69.34</td>
           
